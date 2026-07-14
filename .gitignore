@@ -1,0 +1,30 @@
+# --- build outputs ---
+target/
+build/
+dist/
+out/
+
+# --- dependencies (not used by Rust, kept for baseline compliance) ---
+node_modules/
+.venv/
+venv/
+__pycache__/
+
+# --- large data (never commit sort inputs/outputs) ---
+*.sorted.csv
+*.sorted.jsonl
+*.run
+
+# --- env & secrets ---
+.env
+.env.*
+!.env.example
+
+# --- caches / editor / OS ---
+.DS_Store
+.idea/
+.vscode/
+.cache/
+coverage/
+*.log
+tmp/

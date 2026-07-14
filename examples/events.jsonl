@@ -1,0 +1,5 @@
+{"event": "deploy", "user": {"name": "mika", "plan": "pro"}, "metrics": {"latency_ms": 412}, "ts": "2026-07-02T08:30:00Z"}
+{"event": "login", "user": {"name": "ada", "plan": "free"}, "metrics": {"latency_ms": 95}, "ts": "2026-07-01T22:10:00-04:00"}
+{"event": "export", "user": {"name": "kai", "plan": "pro"}, "metrics": {"latency_ms": 2380}, "ts": "2026-07-02"}
+{"event": "login", "user": {"name": "rin", "plan": "team"}, "metrics": {"latency_ms": 130}, "ts": "2026-07-02T11:05:00+09:00"}
+{"event": "purge", "user": {"name": "ada", "plan": "free"}, "ts": "2026-07-03T00:00:01Z"}
