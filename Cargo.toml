@@ -2,7 +2,7 @@
 name = "sortyard"
 version = "0.1.0"
 edition = "2021"
-authors = ["JaydenCJ"]
+authors = ["JaydenCJ <aisingioro.kiyon@gmail.com>"]
 rust-version = "1.75"
 description = "External merge sort for CSV/JSONL bigger than RAM, with typed multi-column keys: numbers, dates and nested JSON paths, spill-to-disk, stable and verbatim."
 license = "MIT"
